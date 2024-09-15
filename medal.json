@@ -1,0 +1,100 @@
+{
+    "medal_tally": [
+      {
+        "rank": 1,
+        "country": "China",
+        "gold": 94,
+        "silver": 76,
+        "bronze": 50,
+        "total": 220
+      },
+      {
+        "rank": 2,
+        "country": "Great Britain",
+        "gold": 49,
+        "silver": 44,
+        "bronze": 31,
+        "total": 124
+      },
+      {
+        "rank": 3,
+        "country": "United States",
+        "gold": 36,
+        "silver": 42,
+        "bronze": 27,
+        "total": 105
+      },
+      {
+        "rank": 4,
+        "country": "Netherlands",
+        "gold": 27,
+        "silver": 17,
+        "bronze": 12,
+        "total": 56
+      },
+      {
+        "rank": 5,
+        "country": "Neutral Paralympic Athletes",
+        "gold": 26,
+        "silver": 22,
+        "bronze": 23,
+        "total": 71
+      },
+      {
+        "rank": 6,
+        "country": "Brazil",
+        "gold": 25,
+        "silver": 26,
+        "bronze": 38,
+        "total": 89
+      },
+      {
+        "rank": 7,
+        "country": "Italy",
+        "gold": 24,
+        "silver": 15,
+        "bronze": 32,
+        "total": 71
+      },
+      {
+        "rank": 8,
+        "country": "Ukraine",
+        "gold": 22,
+        "silver": 28,
+        "bronze": 32,
+        "total": 82
+      },
+      {
+        "rank": 9,
+        "country": "France",
+        "gold": 19,
+        "silver": 28,
+        "bronze": 28,
+        "total": 75
+      },
+      {
+        "rank": 10,
+        "country": "Australia",
+        "gold": 18,
+        "silver": 17,
+        "bronze": 28,
+        "total": 63
+      },
+      {
+        "rank": 11,
+        "country": "Japan",
+        "gold": 14,
+        "silver": 10,
+        "bronze": 17,
+        "total": 41
+      },
+      {
+        "rank": 12,
+        "country": "Remaining NPCs (85)",
+        "gold": 195,
+        "silver": 226,
+        "bronze": 289,
+        "total": 710
+      }
+    ]
+  }

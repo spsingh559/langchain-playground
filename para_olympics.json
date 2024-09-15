@@ -1,0 +1,99 @@
+{
+    "games": [
+      {
+        "year": 1960,
+        "hostCity": "Rome",
+        "country": "Italy"
+      },
+      {
+        "year": 1964,
+        "hostCity": "Tokyo",
+        "country": "Japan"
+      },
+      {
+        "year": 1968,
+        "hostCity": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "year": 1972,
+        "hostCity": "Heidelberg",
+        "country": "West Germany"
+      },
+      {
+        "year": 1976,
+        "hostCity": "Toronto",
+        "country": "Canada"
+      },
+      {
+        "year": 1980,
+        "hostCity": "Arnhem",
+        "country": "Netherlands"
+      },
+      {
+        "year": 1984,
+        "hostCity": "Stoke Mandeville & New York",
+        "country": "United Kingdom & USA"
+      },
+      {
+        "year": 1988,
+        "hostCity": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "year": 1992,
+        "hostCity": "Barcelona",
+        "country": "Spain"
+      },
+      {
+        "year": 1996,
+        "hostCity": "Atlanta",
+        "country": "USA"
+      },
+      {
+        "year": 2000,
+        "hostCity": "Sydney",
+        "country": "Australia"
+      },
+      {
+        "year": 2004,
+        "hostCity": "Athens",
+        "country": "Greece"
+      },
+      {
+        "year": 2008,
+        "hostCity": "Beijing",
+        "country": "China"
+      },
+      {
+        "year": 2012,
+        "hostCity": "London",
+        "country": "United Kingdom"
+      },
+      {
+        "year": 2016,
+        "hostCity": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "year": 2020,
+        "hostCity": "Tokyo",
+        "country": "Japan (held in 2021)"
+      },
+      {
+        "year": 2024,
+        "hostCity": "Paris",
+        "country": "France"
+      },
+      {
+        "year": 2028,
+        "hostCity": "Los Angeles",
+        "country": "USA"
+      },
+      {
+        "year": 2032,
+        "hostCity": "Brisbane",
+        "country": "Australia"
+      }
+    ]
+  }
